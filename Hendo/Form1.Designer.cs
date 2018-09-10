@@ -161,7 +161,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(25)))), ((int)(((byte)(25)))));
-            this.ClientSize = new System.Drawing.Size(376, 571);
+            this.ClientSize = new System.Drawing.Size(376, 567);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.menupanel);
             this.Controls.Add(this.HendoTextForm);
